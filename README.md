@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julie-alt
+- 👋 Hi, I’m Juliet :upside_down_face:
 - 👀 I’m interested in exploring about the newest frameworks and technologies that drive the modern web
 - 🌱 I’m currently learning Frontend Engineering at AltSchool Africa
 - 💞️ I’m looking to collaborate on creating engaging and user-friendly web experiences.   
